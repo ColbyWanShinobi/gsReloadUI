@@ -1,5 +1,5 @@
 ## Interface: 74000
-## Title: ReloadUI (GameShaman)
+## Title: gsReloadUI (GameShaman)
 ## Notes: Adds the '/reloadui' and '/rl' commands to allow you to reload your UI. Really, that's it...
 ## Author: ColbyWanShinobi
 ## Version: 1.0
