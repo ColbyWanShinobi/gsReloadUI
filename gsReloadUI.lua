@@ -14,5 +14,4 @@ SlashCmdList['RELOADUI'] = function(self, txt)
 	ReloadUI();
 end
 
-print("gsReloadUI by gameshaman.com");
-print("gsReloadUI: Addon Loaded");
+print("gsReloadUI by gameshaman.com - Addon Loaded");
