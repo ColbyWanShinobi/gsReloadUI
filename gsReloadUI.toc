@@ -1,5 +1,5 @@
 ## Interface: 90001
-## Title: |cffeda55fgs|rReloadUI (gameshaman.com)
+## Title: gsReloadUI (|cffeda55fgameshaman.com|r)
 ## Notes: Adds the '/reloadui' and '/rl' commands to allow you to reload your UI. Really, that's it...
 ## Author: ColbyWanShinobi
 ## Version: 1.0
