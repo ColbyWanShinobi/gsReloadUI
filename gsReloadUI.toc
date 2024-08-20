@@ -1,4 +1,4 @@
-## Interface: 110000
+## Interface: 110002
 ## Title: gsReloadUI (|cffeda55fgameshaman.com|r)
 ## Notes: Adds the '/reloadui' and '/rl' commands to allow you to reload your UI. Really, that's it...
 ## Author: ColbyWanShinobi
