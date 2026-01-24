@@ -10,7 +10,7 @@ repo: https://github.com/ColbyWanShinobi/gsReloadUI.git
 SLASH_RELOADUI1 = '/reloadui';
 SLASH_RELOADUI2 = '/rl';
 
-SlashCmdList['RELOADUI'] = function(self, txt)
+SlashCmdList['RELOADUI'] = function(msg, editBox)
 	ReloadUI();
 end
 
