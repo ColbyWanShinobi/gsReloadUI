@@ -1,8 +1,9 @@
 ## Interface: 120100
-## Title: gsReloadUI (|cffeda55fgameshaman.com|r)
+## Title: |cffeda55fgs|r|cff3399ffReloadUI|r (|cffeda55fgameshaman.com|r)
 ## Notes: Adds the '/reloadui' and '/rl' commands to allow you to reload your UI. Really, that's it...
 ## Author: ColbyWanShinobi
 ## Version: 2.0.0
+## IconTexture: Interface\AddOns\gsReloadUI\gsIcon
 ## X-Category: Interface Enhancements
 
 gsReloadUI.lua
